@@ -1,1 +1,14 @@
 [{"id":"2026-07-15-225545","published":1784156145000,"html":"<p>大狗大狗</p>\n<p>叫叫叫！！！</p>","images":[],"searchText":"大狗大狗 叫叫叫！！！"}]
+
+[
+  {
+    "id": "dynamic-id",
+    "published": 1721059200000,
+    "html": "<p>动态内容 HTML</p>",
+    "images": [
+      { "alt": "图片描述", "src": "/path/to/image.jpg" }
+    ],
+    "searchText": "纯文本搜索内容",
+    "pinned": false
+  }
+]
